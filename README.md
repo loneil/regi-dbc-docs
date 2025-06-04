@@ -1,6 +1,10 @@
 This repo is to hold documentation on DBC buisness cases for demoing and other uses
 
 ## Demo Videos
+
+Should be able to play them from here, or right-click and "Save Video As" (at least I can on Firefox)  
+Format is `mp4`
+
 ### Sole Prop issuance
 - A Sole Proprietorship
 - Logging in with BCSC for the proprietor and completeting party user
