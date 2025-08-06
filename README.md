@@ -23,3 +23,11 @@ https://github.com/user-attachments/assets/7fd9b010-b3f7-4712-88e3-1ddea3dd9825
 
 https://github.com/user-attachments/assets/a4d0ea47-67d8-4fb9-95ec-efdd97dbcb51
 
+
+### Sole Prop Dissolution
+- A Sole Proprietorship where the Proprietor has been issued a DBC
+- Dissolve the Sole Prop
+- Show revoked credential and new credential (historical) offer
+
+https://github.com/user-attachments/assets/5b61c2ee-b4d1-41d5-b679-63666a204089
+
