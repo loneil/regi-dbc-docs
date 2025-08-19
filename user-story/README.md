@@ -4,6 +4,18 @@ This section holds video demonstrations of the documented user stories.
 
 See the User Stories document for the corresponding list (final location TBD?). Will not reproduce content of stories here so it can be updated in one place only.
 
+### Environment Notes
+
+User stories will be generally be documented in the **TEST** BCROS [environment](https://test.bcregistry.gov.bc.ca) using TEST BC Service Card logins (from the https://idtest.gov.bc.ca environment). As such, some documented cases may appear slightly different thatn production cases.
+
+Test BCSC Logins just use a username/password that corrsponds to a test-created BC Services Card account.
+
+<img width="693" height="319" alt="image" src="https://github.com/user-attachments/assets/a29895b4-d4b6-40da-9d04-c986dbb1885a" />
+
+The [OCA Bundle](https://github.com/bcgov/aries-oca-bundles/) for test-issued credentials contains a "Non-Production" watermark. Can see below vs a real production DBC:
+<img width="325" height="366" alt="image" src="https://github.com/user-attachments/assets/cc3c5599-d664-4105-bd3e-e6e7fc9ea94d" />
+
+The Issuer Name offering and Contact Name in the BC Wallet appears as "BC Registries Test" instead of "BC Registries"
 
 ## User Stories and Test Cases for Phase 2
 
