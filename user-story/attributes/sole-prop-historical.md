@@ -4,4 +4,7 @@
 - Pick a historical (dissolved) Sole Prop
 - Isssue credential and inspect attributes
 
-https://github.com/user-attachments/assets/3d2c5429-604b-4fdc-ac99-e6df486b0f27
+
+
+https://github.com/user-attachments/assets/70e43b2a-cc61-42b7-ac7a-2d30c3be8559
+
