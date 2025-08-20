@@ -2,7 +2,7 @@
 
 This section holds video demonstrations of the documented user stories.
 
-See the User Stories document for the corresponding list (final location TBD?). Will not reproduce content of stories here so it can be updated in one place only.
+See the User Stories document for the corresponding list (final location TBD? [current here](https://docs.google.com/document/d/1BRFV8nF-Ub30a_-6Tx5FYRPg5OL96OFjag-U7Wd4R3Q/edit?tab=t.0#heading=h.jwh7wtqsa4gf)). Will not reproduce content of stories here so it can be updated in one place only.
 
 ### Environment Notes
 
