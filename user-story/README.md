@@ -28,10 +28,10 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 | Story | Acceptance Critera | Demo |
 | --- | --- | --- |
 | 1 | 1 | [BCeID Access Not Allowed](./getting/bceid-no-access.md) |
-| 1 | 2 | TBA |
+| 1 | 2 | [BC Limited Company Access Not Allowed](./getting/limited-company-no-access.md) |
 | 1 | 3 | TBA |
 | 1 | 4, 5 | Not implemented, TBD |
-| 2 | 1 | TBA |
+| 2 | 1 | [BC Services Card DBC Access](./getting/bcsc-get-dbc.md) |
 | 2 | 2 | TBA |
 
 ### DBC Attributes
