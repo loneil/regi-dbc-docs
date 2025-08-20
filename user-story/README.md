@@ -27,7 +27,7 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 
 | Story | Acceptance Critera | Demo |
 | --- | --- | --- |
-| 1 | 1 | [BCeID Access Not Allowed](/getting/bceid-no-access.md) |
+| 1 | 1 | [BCeID Access Not Allowed](./getting/bceid-no-access.md) |
 | 1 | 2 | TBA |
 | 1 | 3 | TBA |
 | 1 | 4, 5 | Not implemented, TBD |
