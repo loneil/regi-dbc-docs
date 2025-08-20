@@ -38,14 +38,9 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 
 | Story | Acceptance Critera | Demo |
 | --- | --- | --- |
-| 1 | 1 | TBA |
-| 1 | 2 | TBA |
-| 2 | 1 | TBA |
-| 2 | 2 | TBA |
-| 2 | 3 | TBA |
-| 2 | 4 | TBA |
-| 2 | 5 | TBA |
-| 2 | 6 | TBA |
+| 1 | 1, 2 | [Attributes for Issuing to a Benefit Corp](./attributes/benefit-corp-all-atrributes.md) |
+| 2 | 1, 2, 3, 4, 5, 6 | [Attributes for Issuing to a Benefit Corp](./attributes/benefit-corp-all-atrributes.md) |
+| 2 | 6 - additional | [Sole Prop Historical - Attributes](./attributes/sole-prop-historical.md) |
 | 3 | 1 | TBA |
 | 3 | 2 | TBA |
 | 4 | 1 | TBA |
