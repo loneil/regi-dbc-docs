@@ -42,7 +42,7 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 | 2 | 1, 2, 3, 4, 5, 6 | [Attributes for Issuing to a Benefit Corp](./attributes/benefit-corp-all-atrributes.md) <br/> <br/> Additional: <br/>[Sole Prop Historical - Attributes](./attributes/sole-prop-historical.md) |
 | 3 | 1 | TBA |
 | 3 | 2 | TBA |
-| 4 | 1 | TBA |
+| 4 | 1 | [Sole Prop - Proprietor Role](./attributes/sole-prop-proprietor-role.md) |
 | 4 | 2 | TBA |
 | 5 | 1 | TBA |
 | 5 | 2 | TBA |
