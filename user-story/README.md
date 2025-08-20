@@ -17,13 +17,17 @@ The [OCA Bundle](https://github.com/bcgov/aries-oca-bundles/) for test-issued cr
 
 The Issuer Name offering and Contact Name in the BC Wallet appears as "BC Registries Test" instead of "BC Registries"
 
+### Demo Videos
+
+Videos are in mp4 format and can be dowloaded from linked pages or played on GitHub. They have narration and can be unmuted in GH player.
+
 ## User Stories and Test Cases for Phase 2
 
 ### Getting a DBC
 
 | Story | Acceptance Critera | Demo |
 | --- | --- | --- |
-| 1 | 1 | TBA |
+| 1 | 1 | [BCeID Access Not Allowed](/getting/bceid-no-access.md) |
 | 1 | 2 | TBA |
 | 1 | 3 | TBA |
 | 1 | 4, 5 | Not implemented, TBD |
