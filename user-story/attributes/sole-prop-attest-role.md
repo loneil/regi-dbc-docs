@@ -10,5 +10,7 @@ Demoing the confirmation of Proprietor role for a Proprietor where someone else 
 
 
 
-Uploading Sole Prop - User did not register, attests role.mp4…
+
+
+https://github.com/user-attachments/assets/2e1a025d-8027-437c-a6f9-bf3f406ee1b0
 
