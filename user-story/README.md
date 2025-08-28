@@ -56,8 +56,8 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 
 | Story | Acceptance Critera | Demo |
 | --- | --- | --- |
-| 1 | 1 | TBA |
-| 2 | 1 | [Sole Prop - Revoke Manually](./revoking/sole-prop-revoke-manually.md) |
+| 1 | 1 | [Sole Prop - Revoke Manually](./revoking/sole-prop-revoke-manually.md) |
+| 2 | 1 | TBA |
 | 2 | 2 | TBA |
 | 2 | 3 | TBA |
 | 2 | 4 | TBA |
