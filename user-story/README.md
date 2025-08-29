@@ -64,7 +64,7 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 | 2 | 6 | Not implemented, TBD |
 | 3 | 1 | TBA |
 | 3 | 2 | [Dissolve (administrative) Sole Prop](./revoking/sole-prop-dissolve-admin.md) |
-| 3 | 3 | TBA |
+| 3 | 3 | Not possible? To remove? |
 | 4 | 1 | Not implemented, TBD |
 | 4 | 2 | Not implemented, TBD |
 | 5 | 1 | TBA |
