@@ -47,8 +47,7 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 | 3 | 2 | TBA |
 | 4 | 1 | [Sole Prop - Proprietor Role](./attributes/sole-prop-proprietor-role.md) |
 | 4 | 2 | [Sole Prop - User did not register, so attest Proprietor role](./attributes/sole-prop-attest-role.md) |
-| 5 | 1 | TBA |
-| 5 | 2 | TBA |
+| 5 | 1, 2 | [General Partnership - Both Parties](./attributes/general-partnership-both-parties.md) |
 | 6 | 1 | TBA |
 | 7 | 1 | TBA |
 
