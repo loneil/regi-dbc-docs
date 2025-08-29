@@ -1,4 +1,4 @@
-General Partnership - Both Parties
+# General Partnership - Both Parties
 
 Shows getting DBCs for 2 parties on a GP on separate devices
 
