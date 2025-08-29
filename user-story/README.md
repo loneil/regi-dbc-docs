@@ -32,7 +32,7 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 | 1 | 3 | [No User Access to the Entity, no DBC](./getting/no-entity-access.md) |
 | 1 | 4, 5 | Not implemented, TBD |
 | 2 | 1 | [BC Services Card DBC Access](./getting/bcsc-get-dbc.md) |
-| 2 | 2 | TBA |
+| 2 | 2 | [Sole Prop - User did not register, so attest Proprietor role](./attributes/sole-prop-attest-role.md) |
 | 2 | 3 | TBA |
 | 2 | 4 | TBA |
 | 2 | 5 | [Replace Issued DBC](./getting/replace-dbc.md) |
