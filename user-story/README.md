@@ -61,11 +61,11 @@ Videos are in mp4 format and can be dowloaded from linked pages or played on Git
 | 2 | 3 | TBA |
 | 2 | 4 | [Dissolve (Voluntary) Benefit Company](./revoking/benefit-dissolve-voluntary.md) |
 | 2 | 5 | [Benefit Company - Put Back On](./revoking/benefit-put-back-on.md) |
-| 2 | 6 | TBA |
+| 2 | 6 | Not implemented, TBD |
 | 3 | 1 | TBA |
 | 3 | 2 | [Dissolve (administrative) Sole Prop](./revoking/sole-prop-dissolve-admin.md) |
 | 3 | 3 | TBA |
-| 4 | 1 | TBA |
-| 4 | 2 | TBA |
+| 4 | 1 | Not implemented, TBD |
+| 4 | 2 | Not implemented, TBD |
 | 5 | 1 | TBA |
 | 5 | 2 | TBA |
