@@ -12,7 +12,7 @@ Format is `mp4`
   
 https://github.com/user-attachments/assets/7fd9b010-b3f7-4712-88e3-1ddea3dd9825
 
-### General Partnership Issuance
+### General Partnership Issuance (not enabled in production yet)
 - A general partnership with a number of partners
 - Log in with BCSC of completeing party and partner user
   - Show they have DBC issuance option
